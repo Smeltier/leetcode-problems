@@ -1,6 +1,7 @@
 # LeetCode Problems (C++)
 
-My solutions to LeetCode problems in C++, with time and space complexity notes.
+My solutions to LeetCode problems in C++, with time and space complexity notes. 
+You can acess my profile [here](https://leetcode.com/u/Smeltier/)
 
 ## Repository structure
 
